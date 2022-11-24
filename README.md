@@ -2,7 +2,7 @@
 
 The project was developed at the end of Trybe's 30th block, where I studied _Mongo DB and API's OO_.
 
-![some-codes]()
+![some-codes](https://user-images.githubusercontent.com/99998543/203852967-40e030bb-60dd-466a-89d4-617d94a07d51.png)
 
 ### How it works
 
